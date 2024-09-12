@@ -1,16 +1,34 @@
 ## Hi there 👋
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+     
+<strong>Hi, I am Evansy!👋 </strong>
 
-<!--
-**Evansy/Evansy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</pre> 
 
-Here are some ideas to get you started:
+### ⭐️ &nbsp;Github Star
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Evansy&theme=dark&show_icons=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠 &nbsp;Tech Stack
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/Evansy/count.svg" />
