@@ -13,7 +13,6 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
 <strong>Hi, I am Evansy!👋 </strong>
-
 </pre> 
 
 ### ⭐️ &nbsp;Github Star
